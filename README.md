@@ -1,17 +1,19 @@
+<div align="center">
+
 # Hi there, I'm Arpit 👋  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 🚀 **3rd Year Computer Science & Engineering (Data Science) Student**  
-💻 Full-Stack Developer Enthusiast | ☁️ DevOps & Cloud Learner
+💻 Full-Stack Developer Enthusiast | ☁️ DevOps & Cloud Learner  
 
 ---
 
 ## 🌟 About Me
-- 🎓 Pursuing **B.E. in Computer Science & Engineering (Data Science)** at VCET, Vasai  
-- 🌱 Currently learning **DSA • MERN Stack • DevOps**  
-- 🎯 Goal: Become a **Job-ready Full Stack & DevOps Developer**, contribute to impactful projects, and keep growing  
-- ⚡ Hobbies: Video editing 🎥 & Cycling 🚴  
+🎓 Pursuing **B.E. in Computer Science & Engineering (Data Science)** at VCET, Vasai  
+🌱 Currently learning **DSA • MERN Stack • DevOps**  
+🎯 Goal: Become a **Job-ready Full Stack & DevOps Developer**, contribute to impactful projects, and keep growing  
+⚡ Hobbies: Video editing 🎥 & Cycling 🚴  
 
 ---
 
@@ -46,12 +48,12 @@
 ---
 
 ## 🏆 Achievements & Certificates
-- 🌟 GitHub Student Developer Pack Member  
-- 🎖️ Built projects: **Fitness Tracker, Portfolio Website, Responsive Frontends**  
-- 📜 Certificates:  
-  - **C** – GeeksforGeeks, Sololearn 
-  - **Java** – Infosys Springboard  
-  - **Python** – Codédex Club  
+🌟 GitHub Student Developer Pack Member  
+🎖️ Built projects: **Fitness Tracker, Portfolio Website, Responsive Frontends**  
+📜 Certificates:  
+- **C** – GeeksforGeeks, Sololearn, Great Learning, Programming Hub  
+- **Java** – Infosys Springboard  
+- **Python** – Codédex Club  
 
 ---
 
@@ -65,3 +67,5 @@
 ✨ *Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful.*  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+</div>
