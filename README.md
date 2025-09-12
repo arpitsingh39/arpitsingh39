@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi there, I'm Arpit 👋  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Arpit%20👋&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Cloud%20%26%20DevOps%20Learner&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</p>
 
 🚀 **3rd Year Computer Science & Engineering (Data Science) Student**  
 💻 Full-Stack Developer Enthusiast | ☁️ DevOps & Cloud Learner  
@@ -66,6 +70,6 @@
 
 ✨ *Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful.*  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
