@@ -47,7 +47,7 @@
 - 🌟 GitHub Student Developer Pack Member  
 - 🎖️ Built projects: **Fitness Tracker, Portfolio Website, Responsive Frontends**  
 - 📜 Certificates:  
-  - **C** – GeeksforGeeks, Sololearn, Great Learning, Programming Hub  
+  - **C** – GeeksforGeeks, Sololearn 
   - **Java** – Infosys Springboard  
   - **Python** – Codédex Club  
 
