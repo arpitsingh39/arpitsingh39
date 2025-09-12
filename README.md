@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Dark-mode friendly banner (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=200&amp;section=header&amp;text=Hi%20I'm%20Arpit%20👋&amp;fontSize=40&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=Full%20Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Learner&amp;descAlignY=55&amp;descAlign=50" alt="banner" />
+# Hi there, I'm Arpit 👋  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=00C2FF&amp;width=600&amp;lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -71,7 +70,6 @@
 
 ✨ *Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful.*  
 
-<!-- footer banner (escaped ampersands) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=dark&amp;height=100&amp;section=footer" alt="footer" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
