@@ -74,7 +74,7 @@
 ---
 
 ## 🏆 Achievements & Certificates  
- Wheel of Fortune (Syntech-X 2023-24) winner
+ Wheel of Fortune (Syntech-X 2023-24) winner<br>
  GitHub Student Developer Pack Member  
  Built projects: **Medibot, Fitness Tracker, Portfolio Website, Responsive Frontends**  
 
