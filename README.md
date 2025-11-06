@@ -9,20 +9,24 @@
 
 
 
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Full+Stack+Developer;DevOps+%26+Cloud+Learner;Always+learning+new+things"
+    alt="Typing SVG showing roles: Full Stack Developer, DevOps & Cloud Learner, Always learning new things"
+  />
+</p>
+
 
 🚀 **3rd Year Computer Science & Engineering (Data Science) Student**  
 💻 Full-Stack Developer Enthusiast | ☁️ DevOps & Cloud Learner  
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
-🎓 Pursuing **B.E. in Computer Science & Engineering (Data Science)** at VCET, Vasai  
+🎓 Pursuing **B.E. in Computer Science & Engineering (Data Science)** from VCET, Vasai  
 🌱 Currently learning **DSA • MERN Stack • DevOps**  
-🎯 Goal: Become a **Job-ready Full Stack & DevOps Developer**, contribute to impactful projects, and keep growing  
+🎯 Goal: Become a **Full Stack & DevOps Developer**, contribute to impactful projects, and keep growing  
 ⚡ Hobbies: Video editing 🎥 & Cycling 🚴  
 
 ---
@@ -39,9 +43,9 @@
 **🌐 Web Development**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 <br/>
 
@@ -72,7 +76,7 @@
 ## 🏆 Achievements & Certificates  
 
 🌟 GitHub Student Developer Pack Member  
-🎖️ Built projects: **Fitness Tracker, Portfolio Website, Responsive Frontends**  
+🎖️ Built projects: **Medibot, Fitness Tracker, Portfolio Website, Responsive Frontends**  
 
 📜 Certificates:
 - **AI Tools** – GeeksforGeeks
