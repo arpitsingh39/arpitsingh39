@@ -24,10 +24,10 @@
 
 ## About Me  
 
-🎓 Pursuing **B.E. in Computer Science & Engineering (Data Science)** from VCET, Vasai  
-🌱 Currently learning **DSA • MERN Stack • DevOps**  
-🎯 Goal: Become a **Full Stack & DevOps Developer**, contribute to impactful projects, and keep growing  
-⚡ Hobbies: Video editing 🎥 & Cycling 🚴  
+ Pursuing **B.E. in Computer Science & Engineering (Data Science)** from VCET, Vasai  
+ Currently learning **DSA • MERN Stack • DevOps**  
+ Goal: Become a **Full Stack & DevOps Developer**, contribute to impactful projects, and keep growing  
+ Hobbies: Video editing  & Cycling  
 
 ---
 
@@ -74,9 +74,9 @@
 ---
 
 ## 🏆 Achievements & Certificates  
-
-🌟 GitHub Student Developer Pack Member  
-🎖️ Built projects: **Medibot, Fitness Tracker, Portfolio Website, Responsive Frontends**  
+ Wheel of Fortune (Syntech-X 2023-24) winner
+ GitHub Student Developer Pack Member  
+ Built projects: **Medibot, Fitness Tracker, Portfolio Website, Responsive Frontends**  
 
 📜 Certificates:
 - **AI Tools** – GeeksforGeeks
@@ -87,11 +87,11 @@
 ---
 
 ## 📫 Connect with Me  
-
+<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arpit-singh-dev/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge)](https://singharpit.tech)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:singharpit9872@gmail.com) 
-
+</div>
 ---
 
 ✨ *Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful.*  
