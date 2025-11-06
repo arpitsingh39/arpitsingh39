@@ -87,11 +87,9 @@
 ---
 
 ## 📫 Connect with Me  
-<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arpit-singh-dev/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge)](https://singharpit.tech)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:singharpit9872@gmail.com) 
-</div>
 ---
 
 ✨ *Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful.*  
