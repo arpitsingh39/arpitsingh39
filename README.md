@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arpit%20Singh&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%"/>
+</div>
+
 
 
 <div align="center">
 
-# Hi there, I'm Arpit 👋  
+
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;DevOps+%26+Cloud+Learner+%E2%98%81%EF%B8%8F;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
