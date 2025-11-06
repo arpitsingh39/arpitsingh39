@@ -54,6 +54,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -95,6 +96,14 @@
 ✨ *Thanks for visiting my profile! Don’t forget to star ⭐ my repositories if you find them useful.*  
 
 <br/>
+
+<div align="center">
+  
+### 🚀 Always Learning, Always Building, Always Growing
+
+*"It's not a bug; It's an undocumented feature* 
+  
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
