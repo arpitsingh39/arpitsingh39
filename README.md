@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
+
 <div align="center">
 
 # Hi there, I'm Arpit 👋  
@@ -50,7 +53,7 @@
 
 <br/>
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitsingh39&show_icons=true&theme=radical)  
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitsingh39&show_icons=true&theme=radical) 
 
 <br/>
 
@@ -67,7 +70,8 @@
 🌟 GitHub Student Developer Pack Member  
 🎖️ Built projects: **Fitness Tracker, Portfolio Website, Responsive Frontends**  
 
-📜 Certificates:  
+📜 Certificates:
+- **AI Tools** – GeeksforGeeks
 - **C** – GeeksforGeeks, Sololearn, Great Learning, Programming Hub  
 - **Java** – Infosys Springboard  
 - **Python** – Codédex Club  
@@ -78,7 +82,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/arpit-singh-dev/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge)](https://singharpit.tech)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:singharpit9872@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:singharpit9872@gmail.com) 
 
 ---
 
