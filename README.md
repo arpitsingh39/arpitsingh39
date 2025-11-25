@@ -58,21 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<br/>
-
-## GitHub Stats
-
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitsingh39&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsingh39&layout=compact&theme=tokyonight)
-
-[![Followers](https://img.shields.io/github/followers/arpitsingh39?style=social)](https://github.com/arpitsingh39)
-
-
-
-
 ---
 
 ## 🏆 Achievements & Certificates  
