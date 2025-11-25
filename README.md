@@ -68,7 +68,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsingh39&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arpitsingh39&theme=highcontrast)
+[![Followers](https://img.shields.io/github/followers/arpitsingh39?style=social)](https://github.com/arpitsingh39)
+
 
 
 
