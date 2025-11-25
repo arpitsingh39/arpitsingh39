@@ -62,11 +62,14 @@
 
 <br/>
 
+## GitHub Stats
+
 ![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitsingh39&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitsingh39&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arpitsingh39&theme=highcontrast)
+
 
 
 ---
