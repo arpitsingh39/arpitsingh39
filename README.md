@@ -67,6 +67,9 @@
  Built projects: **Medibot, Fitness Tracker, Portfolio Website, Responsive Frontends**  
 
 📜 Certificates:
+- **React Js** – Scaler
+- **FullStack Web Development** – GeeksforGeeks
+- **Node Js** – Educative   
 - **AI Tools** – GeeksforGeeks
 - **C** – GeeksforGeeks, Sololearn, Great Learning, Programming Hub  
 - **Java** – Infosys Springboard  
