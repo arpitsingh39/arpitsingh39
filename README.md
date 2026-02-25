@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me  
 
-- Pursuing **B.E. in Computer Science & Engineering (Data Science)**  
-- Currently learning **DSA • MERN Stack • DevOps • Cloud (AWS)**  
-- Goal: Become a **Full Stack & DevOps Developer**  
-- Hobbies: Video Editing 🎬 & Cycling 🚴  
+ Pursuing **B.E. in Computer Science & Engineering (Data Science)**  
+ Currently learning **DSA • MERN Stack • DevOps • Cloud (AWS)**  
+ Goal: Become a **Full Stack & DevOps Developer**  
+ Hobbies: Video Editing 🎬 & Cycling 🚴  
 
 ---
 
@@ -91,11 +91,11 @@
 
 ## 📜 Certifications  
 
-- React.js – Scaler  
-- Node.js – Educative , Scaler  
-- MongoDB Fundamentals  – MongoDB  
-- FullStack Web Development – GeeksForGeeks  
-- AI Tools – GeeksForGeeks  
+ React.js – Scaler  
+ Node.js – Educative , Scaler  
+ MongoDB Fundamentals  – MongoDB  
+ FullStack Web Development – GeeksForGeeks  
+ AI Tools – GeeksForGeeks  
 
 ---
 
