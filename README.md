@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
@@ -42,41 +42,38 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-
-<br/>
-
-### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 <br/>
 
-### ☁️ Cloud & Platforms  
+### ☁️ Cloud Computing
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge)
 
 <br/>
 
-### 🛠️ Tools  
+### 🛠️ Tools  & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge)
 
 ---
 
-## 🚀 Projects  
+## Projects  
 
 ### 🩺 Medibot – Disease Prediction Using Symptoms  
 - Built an **AI/ML web app** predicting diseases using Random Forest, Naive Bayes & Logistic Regression  
 - Trained models on Kaggle dataset and used Pickle/Joblib for real-time inference  
 - Developed REST APIs with **Flask** and integrated chatbot-style frontend  
-- Implemented fuzzy matching & model accuracy comparison  
+- Implemented fuzzy matching & model accuracy comparison
+- Achieved an accurary of 88% with Naive Bayes model
 
 ---
 
-### 🛒 E-commerce Platform with AI Integration  
+### E-commerce Platform with AI Integration  
 - Built full-stack **MERN** e-commerce platform  
 - Features: Authentication, Product Browsing, Cart, Orders, Admin Panel  
 - Integrated AI-powered recommendation system  
