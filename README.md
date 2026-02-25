@@ -64,7 +64,7 @@
 
 ## Projects  
 
-### 🩺 Medibot – Disease Prediction Using Symptoms  
+### 🩺 Medibot – AI Disease Prediction Using Symptoms  
 - Built an **AI/ML web app** predicting diseases using Random Forest, Naive Bayes & Logistic Regression  
 - Trained models on Kaggle dataset and used Pickle/Joblib for real-time inference  
 - Developed REST APIs with **Flask** and integrated chatbot-style frontend  
@@ -85,15 +85,15 @@
 
 ## 🏆 Achievements  
 
-- 🏅 Wheel of Fortune (Syntech-X 2023-24) Winner  
+ 🏅 Wheel of Fortune (Syntech-X 2023-24) Winner  
 
 ---
 
 ## 📜 Certifications  
 
 - React.js – Scaler  
-- Node.js – Educative / Scaler  
-- MongoDB – Fundamentals  
+- Node.js – Educative , Scaler  
+- MongoDB Fundamentals  – MongoDB  
 - FullStack Web Development – GeeksForGeeks  
 - AI Tools – GeeksForGeeks  
 
