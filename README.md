@@ -107,10 +107,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://singharpit.tech">
-  <img src="https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge"/>
-</a>
-&nbsp;&nbsp;&nbsp;
 <a href="mailto:singharpit9872@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
